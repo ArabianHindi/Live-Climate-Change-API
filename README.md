@@ -1,5 +1,5 @@
 # Live-climate-change-API
-A Demo to show how to build your own API and host in on RapidAPI
+An API that fetches news from multiple URLs and returns URLs that include the word Climate.
 
 ## To run this project
 
